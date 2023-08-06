@@ -1,6 +1,6 @@
 - 👋 Hola, soy JA VI
 - 👀 Estoy interesado en aprender el uso de GitHub y comprender su funcionamiento
-- 🌱 Actualmente no estoy explorando sus funciones y si alguien tiene un consejo o tip, sera bienvenido 
+- 🌱 Actualmente estoy explorando sus funciones y si alguien tiene un consejo o tip, sera bienvenido 
   
   
 
